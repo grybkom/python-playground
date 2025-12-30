@@ -3,7 +3,8 @@
 **A Collection of Notebooks Exploring Computer Science Concepts**
 
 Welcome to my coding playground. This is a collection of notebooks, mostly written in python, I use to better my programming skills and increase my understanding of computer science and some machine learning concepts. 
-![colorful_one_uniform_neighbor_pattern4](https://github.com/user-attachments/assets/90d4dc97-d75c-4cff-a3e4-3719b6947e2e)
+![colorful_one_uniform_neighbor_pattern6](https://github.com/user-attachments/assets/358644c3-4d5c-45e1-a8d0-1a1fd4d8dcd8)
+
 
 
 ## Notebooks
