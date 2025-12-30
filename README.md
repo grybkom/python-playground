@@ -3,7 +3,9 @@
 **A Collection of Notebooks Exploring Computer Science Concepts**
 
 Welcome to my coding playground. This is a collection of notebooks, mostly written in python, I use to better my programming skills and increase my understanding of computer science and some machine learning concepts. 
-![shaded_neighbors_pattern](https://github.com/user-attachments/assets/a402d1ee-e867-4342-8e45-51f1788cce73)
+![colorful_one_uniform_neighbor_pattern4](https://github.com/user-attachments/assets/90d4dc97-d75c-4cff-a3e4-3719b6947e2e)
+
+
 ## Notebooks
 * **nlp_practice:** a basic breakdown of the tokenization process used in natural language processing (NLP). Text data must be converted to numerical data before it can be used in any machine learning application. This notebook is a walkthrough of this process using a single simple sentence. If you are interested in seeing a more complete application of NLP checkout my repository where NLP is used for the binary classification of tweets as disaster or non-disaster related,
  https://github.com/grybkom/NLP_Disaster_Tweets
